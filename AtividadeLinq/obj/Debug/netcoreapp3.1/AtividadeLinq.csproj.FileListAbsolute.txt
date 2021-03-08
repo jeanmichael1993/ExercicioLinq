@@ -1,0 +1,13 @@
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\bin\Debug\netcoreapp3.1\AtividadeLinq.exe
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\bin\Debug\netcoreapp3.1\AtividadeLinq.deps.json
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\bin\Debug\netcoreapp3.1\AtividadeLinq.runtimeconfig.json
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\bin\Debug\netcoreapp3.1\AtividadeLinq.runtimeconfig.dev.json
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\bin\Debug\netcoreapp3.1\AtividadeLinq.dll
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\bin\Debug\netcoreapp3.1\AtividadeLinq.pdb
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.csprojAssemblyReference.cache
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.AssemblyInfoInputs.cache
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.AssemblyInfo.cs
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.dll
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.pdb
+C:\Users\jeanm\Source\Repos\ExercicioLinq\AtividadeLinq\obj\Debug\netcoreapp3.1\AtividadeLinq.genruntimeconfig.cache
